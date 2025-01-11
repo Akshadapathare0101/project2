@@ -1,2 +1,2 @@
 This is project2.
-Created by Akshada.
+Created by Akshada Pathare.
